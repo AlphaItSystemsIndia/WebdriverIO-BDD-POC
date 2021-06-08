@@ -1,0 +1,68 @@
+2021-04-15T10:32:24.486Z [debug] : Step definition - user visits Home page 
+2021-04-15T10:32:24.488Z [debug] : Setting ContextItem page_to_visit 
+2021-04-15T10:32:24.489Z [debug] : STEP OK 
+2021-04-15T10:32:24.492Z [debug] : Step definition - page is loaded 
+2021-04-15T10:32:24.493Z [debug] : Getting ContextItem page_to_visit 
+2021-04-15T10:32:27.480Z [debug] : STEP OK 
+2021-04-15T10:32:27.482Z [debug] : Step definition - user is not signed in 
+2021-04-15T10:32:28.003Z [debug] : STEP OK 
+2021-04-15T10:32:28.005Z [debug] : Step definition - user clicks Sign in button 
+2021-04-15T10:32:29.063Z [debug] : STEP OK 
+2021-04-15T10:32:29.065Z [debug] : Step definition - sign in page asks for Email or mobile phone number 
+2021-04-15T10:32:29.123Z [debug] : STEP OK 
+2021-04-15T10:32:29.124Z [debug] : Step definition - user sets Email or mobile phone number to value amazonUserEmail 
+2021-04-15T10:32:29.319Z [debug] : STEP OK 
+2021-04-15T10:32:29.320Z [debug] : Step definition - user clicks Continue button 
+2021-04-15T10:32:30.373Z [debug] : STEP OK 
+2021-04-15T10:32:30.374Z [debug] : Step definition - sign in page asks for Password 
+2021-04-15T10:32:30.440Z [debug] : STEP OK 
+2021-04-15T10:32:30.441Z [debug] : Step definition - user sets Password to value amazonUserPassword 
+2021-04-15T10:32:30.561Z [debug] : STEP OK 
+2021-04-15T10:32:30.562Z [debug] : Step definition - user clicks Sign In button 
+2021-04-15T10:32:30.717Z [debug] : STEP OK 
+2021-04-15T10:32:30.718Z [debug] : Step definition - browser redirects to Home page 
+2021-04-15T10:32:33.730Z [debug] : STEP OK 
+2021-04-15T10:32:33.731Z [debug] : Step definition - user is signed in 
+2021-04-15T10:32:34.275Z [debug] : STEP OK 
+2021-04-15T10:32:37.051Z [debug] : Step definition - user visits Home page 
+2021-04-15T10:32:37.054Z [debug] : Setting ContextItem page_to_visit 
+2021-04-15T10:32:37.054Z [debug] : STEP OK 
+2021-04-15T10:32:37.057Z [debug] : Step definition - page is loaded 
+2021-04-15T10:32:37.058Z [debug] : Getting ContextItem page_to_visit 
+2021-04-15T10:32:40.018Z [debug] : STEP OK 
+2021-04-15T10:32:40.019Z [debug] : Step definition - user enters laptop in search box 
+2021-04-15T10:32:40.176Z [debug] : STEP OK 
+2021-04-15T10:32:40.177Z [debug] : Step definition - user selects All Categories category in search box 
+2021-04-15T10:32:40.268Z [debug] : STEP OK 
+2021-04-15T10:32:40.269Z [debug] : Step definition - user submits search box 
+2021-04-15T10:32:42.178Z [debug] : STEP OK 
+2021-04-15T10:32:42.179Z [debug] : Step definition - search results are displayed 
+2021-04-15T10:32:43.350Z [debug] : STEP OK 
+2021-04-15T10:32:43.354Z [debug] : Step definition - user visits Home page 
+2021-04-15T10:32:43.354Z [debug] : Setting ContextItem page_to_visit 
+2021-04-15T10:32:43.354Z [debug] : STEP OK 
+2021-04-15T10:32:43.355Z [debug] : Step definition - page is loaded 
+2021-04-15T10:32:43.355Z [debug] : Getting ContextItem page_to_visit 
+2021-04-15T10:32:45.599Z [debug] : STEP OK 
+2021-04-15T10:32:45.599Z [debug] : Step definition - user enters heater in search box 
+2021-04-15T10:32:45.757Z [debug] : STEP OK 
+2021-04-15T10:32:45.758Z [debug] : Step definition - user selects Appliances category in search box 
+2021-04-15T10:32:45.849Z [debug] : STEP OK 
+2021-04-15T10:32:45.850Z [debug] : Step definition - user submits search box 
+2021-04-15T10:32:48.196Z [debug] : STEP OK 
+2021-04-15T10:32:48.197Z [debug] : Step definition - search results are displayed 
+2021-04-15T10:32:49.428Z [debug] : STEP OK 
+2021-04-15T10:32:49.431Z [debug] : Step definition - user visits Home page 
+2021-04-15T10:32:49.431Z [debug] : Setting ContextItem page_to_visit 
+2021-04-15T10:32:49.431Z [debug] : STEP OK 
+2021-04-15T10:32:49.433Z [debug] : Step definition - page is loaded 
+2021-04-15T10:32:49.433Z [debug] : Getting ContextItem page_to_visit 
+2021-04-15T10:32:51.518Z [debug] : STEP OK 
+2021-04-15T10:32:51.519Z [debug] : Step definition - user enters keyboard in search box 
+2021-04-15T10:32:51.708Z [debug] : STEP OK 
+2021-04-15T10:32:51.709Z [debug] : Step definition - user selects Electronics category in search box 
+2021-04-15T10:32:51.792Z [debug] : STEP OK 
+2021-04-15T10:32:51.793Z [debug] : Step definition - user submits search box 
+2021-04-15T10:32:54.336Z [debug] : STEP OK 
+2021-04-15T10:32:54.337Z [debug] : Step definition - search results are displayed 
+2021-04-15T10:32:55.962Z [debug] : STEP OK 
